@@ -102,11 +102,11 @@ db_name="birdie"
 '''
 CONNECTION_STRING = "{drivername}://{user}:{passwd}@{host}:{port}/{db_name}?charset=utf8".format(
     drivername="mysql",
-    user="root",
-    passwd="Zeus2912@",
-    host="localhost",
-    port="3307",
-    db_name="birdie_data",
+    user="",
+    passwd="",
+    host="",
+    port="",
+    db_name="",
 )
 
 
